@@ -4,6 +4,12 @@ This is a demostration repo for workflow and IoT, it chooses Camunda7 and ESP32 
 
 You can check the Workflow_IoT.pptx
 
+Also the video: https://github.com/meadlai/workflow-iot/blob/main/wf_IoT.mp4
+
+https://user-images.githubusercontent.com/676308/233819047-55980428-1344-4cef-a8ce-81f36cbc44d5.mp4
+
+
+
 ## Build
 
     git clone https://github.com/meadlai/workflow-iot.git 
