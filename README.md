@@ -45,7 +45,7 @@ Delay: +5V, GND, Signal
 
 The Signal should connect to GPIO-13
 
-![ESP32](/repository/assets/employee.png?raw=true "ESP32 GPIO")
+![ESP32](/blob/main/ESP32.png?raw=true "ESP32 GPIO")
 
 Connect the pump power.
 
