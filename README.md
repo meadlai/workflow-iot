@@ -57,6 +57,11 @@ Connect the pump power.
     - IoT_Main.py
     - switch_on.py
     - switch_off.py
+    
+Test it with Thonny: https://thonny.org/
+
+![Thonny Debug](/Thonny_Test.png?raw=true "Thonny Debug")
+
 
 
 
