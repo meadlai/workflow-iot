@@ -1,6 +1,8 @@
 # workflow-iot
 
-this is a demostration repo for workflow and IoT, it chooses Camunda7 and ESP32 to build a mini-water-fountain.
+This is a demostration repo for workflow and IoT, it chooses Camunda7 and ESP32 to build a mini-water-fountain.
+
+You can check the Workflow_IoT.pptx
 
 ## Build
 
