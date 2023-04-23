@@ -49,6 +49,8 @@ The Signal should connect to GPIO-13
 
 Connect the pump power.
 
+![Assemble](/Assemble.png?raw=true "Assemble BoM")
+
 ## Deploy the ESP32
 
     cd esp32
